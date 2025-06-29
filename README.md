@@ -32,5 +32,5 @@ The model is based on the original transformer architecture introduced in [*Atte
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/toy-transformer.git
+git clone https://github.com/twinzies/toy-transformer.git
 cd toy-transformer
